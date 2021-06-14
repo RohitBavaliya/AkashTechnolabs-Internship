@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicMathematicsOperations</string>
+    <string name="click_to_find_percentage_and_grade">Click to find Percentage and Grade</string>
+    <string name="find_percentage_of_five_numbers">Find Percentage of five numbers</string>
+</resources>

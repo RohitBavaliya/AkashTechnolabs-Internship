@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomGridViewDemo</string>
+    <string name="image_details">Image Details</string>
+</resources>

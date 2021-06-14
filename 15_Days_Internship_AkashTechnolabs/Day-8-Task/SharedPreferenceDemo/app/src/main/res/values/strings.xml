@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferenceDemo</string>
+    <string name="enter_your_email_id">Enter your email id</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="login">Login</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="signup">Signup</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="signin">SignIn</string>
+    <string name="logout">LOGOUT</string>
+</resources>
